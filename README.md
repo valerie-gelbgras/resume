@@ -2,6 +2,7 @@
 title: About
 layout: default
 ---
+### [Work Experience](./work-experience)
 
 # Dr. Ing Valérie GELBGRAS
 ## DevOps Engineer

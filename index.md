@@ -10,4 +10,4 @@ Expert at architecting automated CI/CD pipelines and infrastructure-as-code (IaC
 Proven track record of leveraging advanced analytical modeling to optimize system performance and delivery workflows.
 
 ---
-### [Work Experience](./work-experience) | [Skills](./skills)
+### [Work Experience](./work-experience) | [Skills](./skills.md)

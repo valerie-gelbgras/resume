@@ -9,6 +9,8 @@ Results-driven Engineer bridging the gap between complex process simulation and 
 Expert at architecting automated CI/CD pipelines and infrastructure-as-code (IaC) to transform theoretical PoCs into high-availability production environments. <br>
 Proven track record of leveraging advanced analytical modeling to optimize system performance and delivery workflows.
 
+{% include skills.md %}
+
 ---
 ### 🛠️ Skills
 

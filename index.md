@@ -1,16 +1,13 @@
 ---
-title: About
+title: Resume
 layout: default
 ---
-
-# Dr. Ing Valérie GELBGRAS
-## DevOps Engineer
+## 🧑‍💼 Overview
 Results-driven Engineer bridging the gap between complex process simulation and scalable cloud infrastructure. <br>
 Expert at architecting automated CI/CD pipelines and infrastructure-as-code (IaC) to transform theoretical PoCs into high-availability production environments. <br>
 Proven track record of leveraging advanced analytical modeling to optimize system performance and delivery workflows.
 
 ---
-
 ## 💼 Work Experience
 ### DevOps Engineer `Dec. 2023 - Present` at Synopsys – ANSYS Inc. (Remote - Belgium)
 R&D Senior Staff Engineer

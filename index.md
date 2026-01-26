@@ -40,19 +40,22 @@ R&D Senior Staff Engineer
 > * Author solution guides and technical documentation for internal and client use.
 
 ### Researcher `07/2006-09/2011` at Université Libre de Bruxelles (Belgium)
+03/2011 - 09/2011: Post-Fellow Researcher
+10/2007 - 02/2011: Ph.D. Reshearcher
+07/2006 - 09/2007: Junior Researcher
 > * Simulated fluid dynamics and cell growth using CFD and custom mathematical models.
 > * Designed experimental validation protocols to confirm simulation accuracy.
 > * Administered HPC clusters and managed software licensing for lab-wide simulations.
 
 ---
 ## 💡 Expertise activities
-### Scientific collaborator `2018-2022` Multiphase and Reacting Flow Group of UCLouvain (Belgium)
-### Technical independent expert `2018-2019` European Commission, Research Executive Agency (Belgium)
+* Scientific collaborator `2018-2022` Multiphase and Reacting Flow Group of UCLouvain (Belgium)
+* Technical independent expert `2018-2019` European Commission, Research Executive Agency (Belgium)
 
 ---
 ## 🧑‍🤝‍🧑 Volunteering activities
-### Webmaster `2013-2020` Multiphase and Reacting Flow Group of UCLouvain (Belgium)
-### Judo trainer assistant `2007-2008` Judo Club Tori Beauvechain (Belgium)
+* Webmaster `2013-2020` Multiphase and Reacting Flow Group of UCLouvain (Belgium)
+* Judo trainer assistant `2007-2008` Judo Club Tori Beauvechain (Belgium)
 
 ---
 ## 🎓 Education
@@ -67,7 +70,7 @@ R&D Senior Staff Engineer
 * English: full professional working proficiency
 
 ---
-⭐Interest
+## ⭐ Interest
 * Reading novels
 * Cooking
 * Playing tenor recorder

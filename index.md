@@ -45,7 +45,35 @@ R&D Senior Staff Engineer
 > * Administered HPC clusters and managed software licensing for lab-wide simulations.
 
 ---
+## 💡 Expertise activities
+### Scientific collaborator `2018-2022` Multiphase and Reacting Flow Group of UCLouvain (Belgium)
+### Technical independent expert `2018-2019` European Commission, Research Executive Agency (Belgium)
 
+---
+## 🧑‍🤝‍🧑 Volunteering activities
+### Webmaster `2013-2020` Multiphase and Reacting Flow Group of UCLouvain (Belgium)
+### Judo trainer assistant `2007-2008` Judo Club Tori Beauvechain (Belgium)
+
+---
+## 🎓 Education
+* Ph.D. in engineering sciences (Process Engineering) `2007–2011` Université Libre de Bruxelles (Belgium)
+* Certificate of advanced training for research in engineering sciences `2009–2010` Université Libre de Bruxelles (Belgium)
+* Master in bioengineering - chemistry and bio-industry (Biotechnology) `2003–2006` Université Libre de Bruxelles (Belgium)
+* Bachelor in chemistry Université Libre de Bruxelles `2001–2003` (Belgium)
+
+---
+## 💬 Languages
+* French:	mother tongue
+* English: full professional working proficiency
+
+---
+⭐Interest
+* Reading novels
+* Cooking
+* Playing tenor recorder
+* Coding just for fun 
+
+---
 ## 🛠️ Skills
 
 | Category | Skills |

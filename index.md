@@ -7,7 +7,7 @@ Results-driven Engineer bridging the gap between complex process simulation and 
 
 ---
 ## 💼 Work Experience
-### DevOps Engineer `Dec. 2023 - Present` at Synopsys – ANSYS Inc. (Remote - Belgium)
+### DevOps Engineer `12/2023 - Present` at Synopsys – ANSYS Inc. (Remote - Belgium)
 R&D Senior Staff Engineer
 > * Design and lead scalable CI/CD platforms supporting multiple engineering teams.
 > * Automate infrastructure using Infrastructure as Code (IaC) tools, enabling rapid, consistent cloud deployments.
@@ -34,7 +34,7 @@ R&D Senior Staff Engineer
 > * Consult on CFD workflow optimization and automation projects.
 > * Author solution guides and technical documentation for internal and client use.
 
-### Researcher `07/2006-09/2011` at Université Libre de Bruxelles (Belgium)
+### Researcher `07/2006 - 09/2011` at Université Libre de Bruxelles (Belgium)
 03/2011 - 09/2011: Post-Fellow Researcher
 10/2007 - 02/2011: Ph.D. Reshearcher
 07/2006 - 09/2007: Junior Researcher

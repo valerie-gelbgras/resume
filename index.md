@@ -35,8 +35,8 @@ R&D Senior Staff Engineer
 > * Author solution guides and technical documentation for internal and client use.
 
 ### Researcher `07/2006 - 09/2011` at Université Libre de Bruxelles (Belgium)
-03/2011 - 09/2011: Post-Fellow Researcher
-10/2007 - 02/2011: Ph.D. Reshearcher
+03/2011 - 09/2011: Post-Fellow Researcher<br>
+10/2007 - 02/2011: Ph.D. Reshearcher<br>
 07/2006 - 09/2007: Junior Researcher
 > * Simulated fluid dynamics and cell growth using CFD and custom mathematical models.
 > * Designed experimental validation protocols to confirm simulation accuracy.

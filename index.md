@@ -83,7 +83,7 @@ R&D Senior Staff Engineer
 | **Licensing** | FlexLM, ANSYS License Manager (client/server) |
 | **Office Suite** | Microsoft Office Suite, Open Office Suite, LaTeX |
 | **OS** | Windows, Linux |
-| **Programming** | Python, C#, C/C++, VBA, MatLab, IronPython, XML, Scheme, JavaScript, WPF, Bash, Powershell, Yaml |
+| **Programming** | Python, C#, C/C++, Go, VBA, MatLab, IronPython, XML, Scheme, JavaScript, WPF, Bash, Powershell, Yaml |
 | **System** | Simulink, Simplorer |
 | **Microservice** | fastapi, flask, bottle, gRPC, Postman |
 | **Python** | Poetry, uv, Numpy, Dash, Matplotlib… |
